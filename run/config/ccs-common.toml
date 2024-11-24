@@ -1,0 +1,5 @@
+playerMessage = true
+hurtHealth = 6.0
+hurtPush = 0.15
+hurtMessage = "FAQ!"
+

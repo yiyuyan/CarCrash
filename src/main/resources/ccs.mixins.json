@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.ccs.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ccs.refmap.json",
+  "mixins": [
+    "EntityMixin",
+    "PoweredVehicleEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
